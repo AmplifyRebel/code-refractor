@@ -91,7 +91,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/* 
+/* took these out to clear up code
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
@@ -122,7 +122,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/*
+
 .benefit-brand img {
     display: block;
     margin: 10px auto;
@@ -134,7 +134,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-*/
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
