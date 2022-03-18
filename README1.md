@@ -1,0 +1,1 @@
+during this assessment I went through the terms that the client wanted and updated the criteria that they stated they desired.
